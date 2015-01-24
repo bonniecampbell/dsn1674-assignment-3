@@ -1,0 +1,49 @@
+html {
+
+  background-color:#bd9dda;
+  font-family: 'Arial',  sans-serif;
+  color: black;
+
+}
+h1, h2 {
+  color:#4f3b2b;
+  font-weight: normal;
+  font-size: 2rem;
+  line-height: 1.5;
+  text-shadow: 2px 0px none;
+  font-family: 'Bevan',  cursive;
+}
+
+a:hover {
+  color:white;
+}
+
+ol {
+  list-style-type: none;
+}
+
+.celestial {
+  color:#4f3b2b;
+}
+
+.rounded {
+  color:#4f3b2b;
+}
+
+blockquote {
+  font-style: italic;
+  text-decoration: none;
+  font-size: 1.2rem;
+  text-align: center; /* left, center, right, justify */
+  font-family: 'Libre Baskerville', serif;
+}
+
+cite {
+  font-style: italic;
+  text-decoration: none;
+  color:#4f3b2b;
+  font-size: 0.9rem;
+  text-align: center; /* left, center, right, justify */
+  font-family: 'Libre Baskerville', serif;
+}
+}
