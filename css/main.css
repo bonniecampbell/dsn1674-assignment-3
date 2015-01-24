@@ -73,3 +73,12 @@ b {
 figcaption {
   font-size: .75rem
 }
+.Mars {
+  list-style-type: circle;
+}
+.Venus {
+  list-style-type: circle;
+}
+dt {
+  font-weight: bold;
+}
