@@ -42,8 +42,10 @@ cite {
   font-style: italic;
   text-decoration: none;
   color:#4f3b2b;
-  font-size: 0.9rem;
+  font-size: .75rem;
   text-align: center; /* left, center, right, justify */
+  float: right;
   font-family: 'Libre Baskerville', serif;
 }
-}
+
+font-style: italic
